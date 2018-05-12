@@ -1,0 +1,29 @@
+_repo: Biographie-des-Sagamos-illustres-de-l-Am-rique-Septentrionale--1848-_21544
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bibaud, Maximilien (François Marie Uncas Maximilien)
+    alias: Bibaud, Maximilien (Francois Marie Uncas Maximilien)
+    birthdate: 1824
+    deathdate: 1887
+    gutenberg_agent_id: '24775'
+    url: http://www.gutenberg.org/2009/agents/24775
+description: ''
+gutenberg_bookshelf: FR Peuples et Sociétés
+gutenberg_issued: '2007-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21544'
+  lccn: '11025207'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Biography'
+- !lcc 'E011'
+title: Biographie des Sagamos illustres  de l'Amérique Septentrionale (1848)
+url: http://www.gutenberg.org/ebooks/21544
